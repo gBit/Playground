@@ -1,0 +1,1 @@
+Copyright (c) 2014 VOKAL Interactive. All rights reserved.
